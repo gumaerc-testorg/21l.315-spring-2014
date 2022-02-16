@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 16c7aa3d-7b05-9dbc-af63-394606314931
 ---
@@ -49,20 +51,6 @@ None.
 ### Offered
 
 _Prizewinners_ is a [Samplings](http://lit.mit.edu/curriculum/samplings/) course offered every spring and fall; each offering focuses on different authors.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Classroom with about 20 tablet desks arranged in 4 rows. An instructor’s table is at the front of the room. A white projection screen is pulled down in front of a blackboard behind the instructor’s table.]({{< resource_file 3f9beb69-dbb8-ec11-6134-71adb219bdc8 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    Students met in a classroom with moveable tablet desks. A chalkboard was available.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

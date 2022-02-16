@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 16c7aa3d-7b05-9dbc-af63-394606314931
 title: Selecting the Nobelistas
 uid: 804462f1-6a2d-101c-b01c-760a28f2c205
@@ -15,4 +18,4 @@ Ultimately, I chose _July’s People_ for the Nadine Gordimer reading. For the T
 
 {{< quote "I really liked the experience of saying to students, ‘I don’t know much about this author.’" "—Wyn Kelley" >}}
 
-I selected these particular readings because I wanted to provide students with a list that didn’t have a logical narrative. When I teach my [_American Novel_](/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/) course, I start in the 18th century, and go to the 20th century. The readings create a historical arc. There was none of that in _Nobelistas_. The coherence came from finding connections between the authors and their works. For example, looking at Gordimer’s, Morrison’s, and Müller’s work together led to observations about political alienation in each of the novels. _The Appointment_ and _July’s People_ are political novels very much rooted in their historical periods. They are about people trying to make sense of alien and perplexing environments. Morrison works with this theme more obviously in books like _Beloved_, in which slavery and history are alienating. There are these elements in _Song of Solomon_, but the novel is not so obviously political in that way. Munro is often taken as someone who is not alienating—her subjects seem domestic and familiar. But what she does with them is so strange! So we found ourselves seeing connections that we didn’t expect. That doesn’t always happen when I have a surer sense of how the novels fit together.
+I selected these particular readings because I wanted to provide students with a list that didn’t have a logical narrative. When I teach my [_American Novel_](/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/) course, I start in the 18{{< sup "th" >}} century, and go to the 20{{< sup "th" >}} century. The readings create a historical arc. There was none of that in _Nobelistas_. The coherence came from finding connections between the authors and their works. For example, looking at Gordimer’s, Morrison’s, and Müller’s work together led to observations about political alienation in each of the novels. _The Appointment_ and _July’s People_ are political novels very much rooted in their historical periods. They are about people trying to make sense of alien and perplexing environments. Morrison works with this theme more obviously in books like _Beloved_, in which slavery and history are alienating. There are these elements in _Song of Solomon_, but the novel is not so obviously political in that way. Munro is often taken as someone who is not alienating—her subjects seem domestic and familiar. But what she does with them is so strange! So we found ourselves seeing connections that we didn’t expect. That doesn’t always happen when I have a surer sense of how the novels fit together.

@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 16c7aa3d-7b05-9dbc-af63-394606314931
 title: Teaching Novices
 uid: 8806cded-5e46-1b74-1c3b-70cebca05503
