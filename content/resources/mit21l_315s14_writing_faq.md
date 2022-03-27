@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 28364c70-ea09-8213-7aba-5094001bb91c
 resourcetype: Document
 title: 'Writing FAQs '
 uid: 1108694e-f153-3116-0402-247f8667ce0f

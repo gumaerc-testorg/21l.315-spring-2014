@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 28364c70-ea09-8213-7aba-5094001bb91c
 resourcetype: Document
 title: MLA Citation Form
 uid: 2bb8343b-d93c-fa36-1371-50a4d3c65fe5
