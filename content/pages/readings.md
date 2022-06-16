@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section privates citations and links to the required and supplemental
+  readings for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

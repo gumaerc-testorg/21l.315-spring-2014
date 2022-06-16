@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Wyn Kelley shares her insights about supporting novices
+  as they approach literary analysis and writing essays.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
