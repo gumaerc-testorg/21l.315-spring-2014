@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: 21L-315_stat-students
 uid: 702262c1-c6e7-7aad-4d3b-35c9f5fc859f
 ---
 Image showing the number of students enrolled in the course.
-

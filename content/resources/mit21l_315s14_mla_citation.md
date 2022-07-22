@@ -6,6 +6,7 @@ file: /courses/21l-315-prizewinners-nobelistas-spring-2014/2bb8343bd93cfa3613715
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MLA Citation Form
 uid: 2bb8343b-d93c-fa36-1371-50a4d3c65fe5
 ---
 Guidelines on how to use the Modern Language Association (MLA) citation and format style.
-

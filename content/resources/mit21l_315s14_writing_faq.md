@@ -5,6 +5,7 @@ file: /courses/21l-315-prizewinners-nobelistas-spring-2014/1108694ef153311604022
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Writing FAQs '
 uid: 1108694e-f153-3116-0402-247f8667ce0f
 ---
 Frequently asked questions on writing.
-
