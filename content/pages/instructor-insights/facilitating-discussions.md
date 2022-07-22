@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section, Wyn Kelley shares strategies for facilitating classroom
+  discussions.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 16c7aa3d-7b05-9dbc-af63-394606314931
 title: Facilitating Discussions
 uid: 2806a6e3-1cda-664d-39a9-bfae4850e796

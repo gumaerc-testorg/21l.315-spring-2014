@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides writing resources for the course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 28364c70-ea09-8213-7aba-5094001bb91c
 ---
@@ -18,9 +22,9 @@ Note on Writing
 
 Topics for the response papers will come from your own observations of the texts and class discussions. In each response paper, select a passage for closer study and expand your reading using evidence from the passage as support. The final essay will involve similar skills but will give you space to develop a more refined thesis and argument based on your reading of the text. For guidelines on how to write a response paper or critical essay, please consult:
 
-*   [MLA Citation Form (PDF)]({{< baseurl >}}/resources/mit21l_315s14_mla_citation)
-*   [Writing FAQs (PDF)]({{< baseurl >}}/resources/mit21l_315s14_writing_faq)
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Brief Guide to Writing the English Paper" from the Harvard Writing Center (PDF)](http://writingproject.fas.harvard.edu/files/hwp/files/bg_writing_english.pdf)
+*   {{% resource_link 2bb8343b-d93c-fa36-1371-50a4d3c65fe5 "MLA Citation Form (PDF)" %}}
+*   {{% resource_link 1108694e-f153-3116-0402-247f8667ce0f "Writing FAQs (PDF)" %}}
+*   ["A Brief Guide to Writing the English Paper" from the Harvard Writing Center (PDF)](http://writingproject.fas.harvard.edu/files/hwp/files/bg_writing_english.pdf)
 
 Additional Resources for Writing
 --------------------------------
