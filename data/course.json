@@ -39,8 +39,10 @@
     "website": "21l-315-prizewinners-nobelistas-spring-2014"
   },
   "learning_resource_types": [
-    "Presentation Assignments"
+    "Presentation Assignments",
+    "Instructor Insights"
   ],
-  "site_uid": "e10f3114-460b-47f4-8c84-1b1e34cb07ec",
+  "site_uid": "d64accd3-e1fa-44cf-9fc0-76670ba5370a",
+  "site_short_id": "21l.315-spring-2014",
   "title": "Course Metadata"
 }
