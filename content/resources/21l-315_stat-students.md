@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image showing the number of students enrolled in the course.
-file: /ol-ocw-studio-app/courses/21l-315-prizewinners-nobelistas-spring-2014/702262c1c6e77aad4d3b35c9f5fc859f_21L-315_stat-students.png
+file: /courses/21l-315-prizewinners-nobelistas-spring-2014/702262c1c6e77aad4d3b35c9f5fc859f_21L-315_stat-students.png
 file_size: 3781
 file_type: image/png
 image_metadata:
