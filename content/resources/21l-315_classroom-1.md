@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photo of the classroom used for the course.
-file: /ol-ocw-studio-app/courses/21l-315-prizewinners-nobelistas-spring-2014/3f9beb69dbb8ec11613471adb219bdc8_21L-315_classroom-1.jpg
+file: /courses/21l-315-prizewinners-nobelistas-spring-2014/3f9beb69dbb8ec11613471adb219bdc8_21L-315_classroom-1.jpg
 file_size: 53254
 file_type: image/jpeg
 image_metadata:
