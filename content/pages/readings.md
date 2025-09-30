@@ -12,24 +12,24 @@ uid: 9eb22b94-0824-4f13-8941-7d6aef4fb087
 Required Readings
 -----------------
 
-\[GN\] = Gordimer, Nadine. _July's People_. Penguin Books, 1982. ISBN: 9780140061406. \[Preview with [Google Books](http://books.google.com/books?id=LCdjbAfVCDsC&pg=PAfrontcover)\]
+\[GN\] = Gordimer, Nadine. _July's People_. Penguin Books, 1982. ISBN: 9780140061406. \[Preview with {{% resource_link "9730bd5d-c920-41f3-8130-c16a133fe26c" "Google Books" %}}\]
 
 \[MT\] = Morrison, Toni. _Song of Solomon_. Vintage, 2004. ISBN: 9781400033423.
 
 \[MH\] = Müller, Herta. _The Appointment: A Novel_. Metropolitan Books, 2001. ISBN: 9780805060126.
 
-Lessing, Doris May. "[A Mild Attack of Locusts](http://www.newyorker.com/magazine/1955/02/26/a-mild-attack-of-locusts)." _The New Yorker_, February 26, 1955.
+Lessing, Doris May. "{{% resource_link "73c5c940-daae-4c9c-8e7c-c86b0225a974" "A Mild Attack of Locusts" %}}." _The New Yorker_, February 26, 1955.
 
-———. "[Myself as Sportsman](http://www.newyorker.com/magazine/1956/01/21/myself-as-sportsman)." _The New Yorker_, January 21, 1956.
+———. "{{% resource_link "e409e2b2-9461-4dd0-9f42-311a81cb9dd6" "Myself as Sportsman" %}}." _The New Yorker_, January 21, 1956.
 
-———. "[The Stare](http://www.newyorker.com/magazine/1997/07/07/the-stare-2)." _The New Yorker_, July 7, 1997.
+———. "{{% resource_link "89054ebe-06de-41f1-9f23-30031cd0f79a" "The Stare" %}}." _The New Yorker_, July 7, 1997.
 
 \[MA\] = Munro, Alice. _Hateship, Friendship, Courtship, Loveship, Marriage_. Vintage, 2002. ISBN: 9780375727436.
 
 Supplemental Reading
 --------------------
 
-Verongos, Helen T. "[Doris Lessing, Author Who Swept Aside Convention, Is Dead at 94](http://www.nytimes.com/2013/11/18/books/doris-lessing-novelist-who-won-2007-nobel-is-dead-at-94.html?_r=0&adxnnl=1&adxnnlx=1421427813-oXWokNZNmIzydrJFO/OMRg)." _New York Times_, November 17, 2013. Accessed January 16, 2015.
+Verongos, Helen T. "{{% resource_link "f9604430-83b1-4d8b-8ee3-791b8da64e8d" "Doris Lessing, Author Who Swept Aside Convention, Is Dead at 94" %}}." _New York Times_, November 17, 2013. Accessed January 16, 2015.
 
 {{< tableopen >}}
 {{< theadopen >}}
