@@ -19,7 +19,7 @@ In my teaching, I distinguish between experts and novices. There’s no hierarch
 Scaffolding Novices’ Literary Analyses
 --------------------------------------
 
-Decades ago, I used to hand my students a theme, such as “the role of the family in Shakespeare’s _Henry V_” and ask them simply to discuss. Since MIT has offered {{% resource_link "a790e6f3-38fd-4460-895a-f5c7a625a74f" "Communication Intensive" %}} courses, my teaching has changed quite a bit. I now focus more on skills than on topics, and on close reading rather than themes. So often, looking more closely at a passage opens it up and gives you a very different understanding. If you’re open to it, something wonderful happens. So rather than students showing me mastery of an entire text, they work with a small piece of the text that is connected to larger issues.
+Decades ago, I used to hand my students a theme, such as “the role of the family in Shakespeare’s _Henry V_” and ask them simply to discuss. Since MIT has offered [Communication Intensive](http://mit.edu/commreq/) courses, my teaching has changed quite a bit. I now focus more on skills than on topics, and on close reading rather than themes. So often, looking more closely at a passage opens it up and gives you a very different understanding. If you’re open to it, something wonderful happens. So rather than students showing me mastery of an entire text, they work with a small piece of the text that is connected to larger issues.
 
 {{< quote "I have found that if you relieve students of the pressure to be experts, then they can be who they are, and excel." "—Wyn Kelley" >}}
 
