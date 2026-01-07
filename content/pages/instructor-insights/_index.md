@@ -48,7 +48,7 @@ None.
 
 ### Offered
 
-_Prizewinners_ is a {{% resource_link "3ca98b81-dcd1-4a16-b240-618a896f831f" "Samplings" %}} course offered every spring and fall; each offering focuses on different authors.
+_Prizewinners_ is a [Samplings](http://lit.mit.edu/curriculum/samplings/) course offered every spring and fall; each offering focuses on different authors.
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
